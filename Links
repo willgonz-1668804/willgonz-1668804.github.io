@@ -1,0 +1,26 @@
+<!DOCTYPE	html>
+<html>
+	<head>
+			<title>My website</title>
+	</head>
+	<body>
+			<h1>This is an h1 tag</h1>
+			<h2>This is an h2 tag</h2>
+			
+			<p>This is a paragraph</p>
+			
+			<p>My Favorite Websites</p>
+	
+	
+			<ul>
+					<li>
+							<a href="google.com">Google </a> 
+					</li>
+					<li>
+							<a href="bing.com">Bing </a> 
+					</li>
+					
+			</ul>
+	
+	</body>
+</html>
